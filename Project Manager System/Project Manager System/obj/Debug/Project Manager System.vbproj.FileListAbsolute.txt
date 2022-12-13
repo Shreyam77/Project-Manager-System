@@ -1,0 +1,22 @@
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\bin\Debug\Project Manager System.exe.config
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\bin\Debug\Project Manager System.exe
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\bin\Debug\Project Manager System.pdb
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\bin\Debug\Project Manager System.xml
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\obj\Debug\Project Manager System.vbprojAssemblyReference.cache
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\obj\Debug\Project_Manager_System.CreateNewProject.resources
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\obj\Debug\Project_Manager_System.Resources.resources
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\obj\Debug\Project Manager System.vbproj.GenerateResource.cache
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\obj\Debug\Project Manager System.exe
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\obj\Debug\Project Manager System.xml
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\obj\Debug\Project Manager System.pdb
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\obj\Debug\Project_Manager_System.Home.resources
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\obj\Debug\Project_Manager_System.CreateNewTask.resources
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\obj\Debug\Project_Manager_System.Login.resources
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\obj\Debug\Project_Manager_System.RegisterTeacher.resources
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\obj\Debug\Project_Manager_System.RegisterStudent.resources
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\obj\Debug\Project_Manager_System.ViewTasks.resources
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\obj\Debug\Project_Manager_System.THome.resources
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\obj\Debug\Project_Manager_System.ViewStatistics.resources
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\obj\Debug\Project_Manager_System.TViewProjects.resources
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\obj\Debug\Project_Manager_System.TViewTasks.resources
+C:\Users\Shreyam\source\repos\Project Manager System\Project Manager System\obj\Debug\Project_Manager_System.TViewStatistics.resources
